@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <!--
-animation: http://velocityjs.org/
+[] resources
+  - animation: http://velocityjs.org/
 -->
 
 <head>
