@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <!--
-[] resources
+[0] resources
   - animation: http://velocityjs.org/
+  - css flex
 -->
 
 <head>
