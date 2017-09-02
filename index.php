@@ -2,8 +2,9 @@
 <html>
 <!--
 [0] resources
-- animation: http://velocityjs.org/
-- css flex
+  - animation: http://velocityjs.org/
+  - css flex
+  - basic flow
 -->
 
 <head>
